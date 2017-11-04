@@ -1,0 +1,26 @@
+{
+  "name": "backend-bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksatter/backend-bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksatter/backend-bamazon/issues"
+  },
+  "homepage": "https://github.com/ksatter/backend-bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  }
+}
